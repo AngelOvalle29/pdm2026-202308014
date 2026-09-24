@@ -2,8 +2,8 @@
 
 Programación de Dispositivos Móviles - UMES Quetzaltenango
 
-Estudiante: 
-Carné: 
+Estudiante: Angel Glicerio Ovalle Fernández
+Carné: 202308014
 
 ## Descripción
 
