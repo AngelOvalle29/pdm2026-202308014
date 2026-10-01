@@ -2,7 +2,7 @@
 
 **Curso:** Programación de Dispositivos Móviles, Sección E
 **Docente:** Saúl Calderón
-**Estudiante:** _tu nombre_
+**Estudiante:** Angel Glicerio Ovalle Fernández
 **Carné:** 202308014
 
 Aplicación en Flutter que permite armar un pedido de cafetería con tres productos
